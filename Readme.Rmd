@@ -7,7 +7,7 @@ output: html_document
 # Getting and Cleaning Data - Course Project
 
 This is the course project for the Getting and Cleaning Data Coursera course.
-The R script, `clean_merge.R`, does the following on the downloaded file:
+The R script, `run_analysis.R`, does the following on the downloaded file:
 
 
 1. Load the activity and feature info
